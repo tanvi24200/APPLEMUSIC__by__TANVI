@@ -253,16 +253,16 @@ document.querySelector(".audio66").addEventListener("click",function(){
   audio65.play(); 
 });
 const audio67=new Audio("tum-tum-tamil-song-sri-vardhini-aditi-satya-yamini-ferni-roshini-tejaswini.mp3");
-document.querySelector(".audio57").addEventListener("click",function(){
+document.querySelector(".audio67").addEventListener("click",function(){
   audio67.pause(); 
 });
-document.querySelector(".audio58").addEventListener("click",function(){
+document.querySelector(".audio68").addEventListener("click",function(){
   audio67.play(); 
 });
 const audio69=new Audio("Buttabomma-Armaan-Malik.mp3");
-document.querySelector(".audio59").addEventListener("click",function(){
+document.querySelector(".audio69").addEventListener("click",function(){
   audio69.pause(); 
 });
-document.querySelector(".audio60").addEventListener("click",function(){
+document.querySelector(".audio70").addEventListener("click",function(){
   audio69.play(); 
 });
